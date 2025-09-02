@@ -1,2 +1,2 @@
 # EDA
-Performing EDA on various datasets
+Performing Exploratory Data Analysis (EDA) on various datasets
